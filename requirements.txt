@@ -1,0 +1,7 @@
+pyttsx3==2.7
+numpy==1.18.2
+opencv-python==4.2.0.34
+Pillow==2.2.2
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
+pyowm==2.10.0
