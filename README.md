@@ -45,4 +45,6 @@ The Commands to which Ruby responds are :
       ![Untitled](https://user-images.githubusercontent.com/41967963/79081335-232dca00-7d3a-11ea-9416-8fda04f36a17.png)
 
       
-      
+   Click the start button to initiate interaction and there you go.
+   
+   **Note :**  Also remember to have a fast and secured internet connection to make this run. Because it is using google speech recognition api to understand the commands.
